@@ -1,0 +1,74 @@
+Curriculum Vitae
+===================
+
+
+# *Alia Parveen*
+Fulbright PhD Scholar at University of Arkansas.
+
+## Education
+**2014 to date**
+
+PhD in CEMB, University of Arkansas, Fayetteville, AR.
+
+**2009-2011**
+
+MS in Biosciences, CIIT, Islamabad, Pakistan.
+
+**2005-2009**
+
+BS in Bioinformatics, IIUI, Islamabad, Pakistan.
+
+
+### Work History
+
+**Sep, 2012-Jan, 2014**
+
+Teacher Trainer (Health Education) at Hashoo Foundation, Rawalpindi, Pakistan.
+
+**Apr, 2012-Aug, 2014**
+
+Science Teacher at Radiant School, Rawalpindi, Pakistan.
+
+**Sep, 2011-Mar, 2012**
+
+Research Intern at CIIT, Islamabad, Pakistan.
+
+
+### Scholarship Awards
+
+**2014**
+
+Foreign Fulbright PhD Award at University of Arkansas by *United States Government*. 
+
+**2009**
+
+Full Tuition Fee Waiver Award by *CIIT*,Pakistan.
+
+
+### Skills
+    * MS Office 
+    * Computer languages (C++, Java, BioJava)
+    * Basic Molecular Biology Laboratory Techniques (PCR,SSCP,SDS_PAGE)
+
+
+#### Projects
+    1. Genotyping of Glutathione-S-Transferase among Allergic Rhinitis Patients (MS project)
+    2. 3D Structure Prediction of proteins using Modeller (Semester Project)
+    3. Rent A Car, Online software using JAVA (JBuilder) (Semester Project)
+    4. 3D Structure Prediction of proteins using Modeller (Semester Project)
+    
+#### Publications
+    * Kanwal S, Iqbal H, Parveen A, Khattak JZ, Mir A. CatSper ion channels: Bioinformatics analysis in Homo sapien.Afr.J.Biotechnol. 2011. 10(40): 9017-9022.
+
+
+#### Research interests
+cancer genetics, bioinformatics, cell signaling.
+
+
+##### Languages
+    * Wakhi, Urdu, Burushaski and English.
+
+
+<!-- ### Footer
+
+Last updated: Apr, 2016 -->
