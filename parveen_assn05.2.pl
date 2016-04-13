@@ -15,7 +15,7 @@ print "$sub_dna\n";
 if ($sub_dna eq "ATG")
 { 
 $strand =1;
-print "$strand\n The gene is on forward strand.\n";
+print "$strand\n The gene is on the forward strand.\n";
 } 
 
 else 
@@ -28,7 +28,7 @@ print "$sub_rcdna\n";
 if ($sub_rcdna eq "ATG")
 { 
 $strand = -1;
-print "$strand\n The gene is on reverse strand.\n";
+print "$strand\n The gene is on the reverse strand.\n";
 } 
 
 else
