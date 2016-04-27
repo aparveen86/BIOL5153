@@ -16,7 +16,7 @@ open (FASTA,$ARGV[0]) || die "Cant open $ARGV[0]";
 
 while ($line=<FASTA>) {
 	chomp $line;
-	if ($line=~/^\A>/) 
+	if ($line=~/^\A>(.*)\Z/) 
 	{ 
 		chomp $line; 
 		@poo=split(/\>/,$line); 
@@ -60,6 +60,7 @@ for ($i=0;$i<scalar@species;$i++)
 	$seqs[$i]=$seqs[$i].'-'; #adding gaps
 	}
 	}
+	$species[$i] =~ s/\s+/_/g;
 	print "\n$species[$i]\t$seqs[$i]"; #Header and sequences
 }
 print "\n";
